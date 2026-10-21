@@ -4,7 +4,7 @@ import { Plugin } from '@/types/plugin';
 import { CheerioAPI, load as parseHTML } from 'cheerio';
 import { defaultCover } from '@libs/defaultCover';
 import { NovelStatus } from '@libs/novelStatus';
-
+//hi
 class HangulPlanetPlugin implements Plugin.PluginBase {
   id = 'hangulplanet';
   name = 'HangulPlanet';
